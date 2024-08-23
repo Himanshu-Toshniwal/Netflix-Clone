@@ -42,7 +42,7 @@ To get started with this project on your local machine:
 
 Below is a screenshot of the landing page:
 
-![Screenshot]()
+![Screenshot](https://github.com/Himanshu-Toshniwal/Netflix-Clone/blob/a8f1d24ae904b10edfe4af88143e2ca134fac956/NetflixScreenshots.png)
 
 
 
